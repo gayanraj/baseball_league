@@ -18,13 +18,14 @@ Setting up local development environment.
 
 ### Setup
 
+* Create a virtual environment for the project
 * Install required packages
     ```
-    pip install -Ur requirements.txt
+    pip install -r requirements.txt
     ```
+* Add SQLite database with name 'db.sqlite3' to the project
 * Create database models
     ```
-    python manage.py makemigrations
     python manage.py migrate
     ```
 
