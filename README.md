@@ -4,8 +4,10 @@ This project contains REST API for Baseball League system.
 
 ## Getting Started
 
+* Checkout project from GitHub
+
 ```shell
-git clone git url
+https://github.com/gayanraj/baseball_league.git
 ```
 
 ### Prerequisites
